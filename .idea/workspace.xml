@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01a915e4-92c8-4e2b-9deb-834b20894288" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ex4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -34,13 +34,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ex4.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="36" column="108" selection-start-line="36" selection-start-column="108" selection-end-line="36" selection-end-column="108" />
+            <state relative-caret-position="748">
+              <caret line="68" column="13" lean-forward="true" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
               <folding>
                 <element signature="e#3777#3783#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ex3.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+              <folding>
+                <element signature="e#3757#3763#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -57,13 +69,14 @@
         <option value="$PROJECT_DIR$/ex1.html" />
         <option value="$PROJECT_DIR$/ex2.html" />
         <option value="$PROJECT_DIR$/ex4.html" />
+        <option value="$PROJECT_DIR$/ex3.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1053" />
+    <option name="x" value="1002" />
     <option name="y" value="23" />
-    <option name="width" value="802" />
+    <option name="width" value="853" />
     <option name="height" value="977" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -113,11 +126,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.ex4.html">
+  <component name="RunManager" selected="JavaScript Debug.ex3.html">
     <configuration name="ex1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bootstrapgrid/ex1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="ex2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bootstrapgrid/ex2.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="ex3.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bootstrapgrid/ex3.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="ex4.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bootstrapgrid/ex4.html" useBuiltInWebServerPort="true">
@@ -125,6 +141,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.ex3.html" />
         <item itemvalue="JavaScript Debug.ex4.html" />
         <item itemvalue="JavaScript Debug.ex2.html" />
         <item itemvalue="JavaScript Debug.ex1.html" />
@@ -141,19 +158,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559062615472</updated>
-      <workItem from="1559062624407" duration="8516000" />
+      <workItem from="1559062624407" duration="9347000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8516000" />
+    <option name="totallyTimeSpent" value="9347000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1053" y="23" width="802" height="977" extended-state="0" />
+    <frame x="1002" y="23" width="853" height="977" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.03841229" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10697115" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
@@ -191,10 +208,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ex4.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="36" column="108" selection-start-line="36" selection-start-column="108" selection-end-line="36" selection-end-column="108" />
+        <state relative-caret-position="748">
+          <caret line="68" column="13" lean-forward="true" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
           <folding>
             <element signature="e#3777#3783#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+          <folding>
+            <element signature="e#3757#3763#0" expanded="true" />
           </folding>
         </state>
       </provider>
